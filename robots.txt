@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheemeilie.fourohfour.games/sitemap.xml
